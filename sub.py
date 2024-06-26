@@ -1,1 +1,2 @@
-i'm sub에요
+# i'm sub
+print('subway')
